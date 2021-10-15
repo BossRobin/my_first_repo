@@ -1,2 +1,2 @@
 # my_first_repo
-main_test
+feature_test
